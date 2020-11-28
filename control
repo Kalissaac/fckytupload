@@ -1,0 +1,9 @@
+Package: com.hooli.fckytupload
+Name: fckytupload
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Disables upload button in YouTube
+Maintainer: Gavin Belson
+Author: Gavin Belson
+Section: Tweaks
